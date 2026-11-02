@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Royal Gold Necklace",
+    "category": "Necklaces",
+    "subcategory": "Long Harams",
+    "price": "Enquire for price",
+    "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=700&q=80",
+    "id": "legacy-1"
+  },
+  {
+    "name": "Gold Bangle 1",
+    "category": "Bangles",
+    "subcategory": "Antique Bangles",
+    "price": "Enquire for price",
+    "image": "image/bangles/chatgpt-image-aug-14-2026-02-15-27-pm-1793430741360.png",
+    "id": "legacy-2"
+  },
+  {
+    "name": "Gold Bangle 2",
+    "category": "Bangles",
+    "subcategory": "Light Weight Bangles",
+    "price": "Enquire for price",
+    "image": "image/bangles/bangles3.png",
+    "id": "legacy-3"
+  },
+  {
+    "name": "Gold Bangle 3",
+    "category": "Bangles",
+    "subcategory": "Daily Wear Bangles",
+    "price": "Enquire for price",
+    "image": "image/bangles/bangles4.png",
+    "id": "legacy-4"
+  },
+  {
+    "name": "Gold Bangle 4",
+    "category": "Bangles",
+    "subcategory": "Unique Kangans",
+    "price": "Enquire for price",
+    "image": "image/bangles/bangles5.png",
+    "id": "legacy-5"
+  },
+  {
+    "name": "Gold Bangle 5",
+    "category": "Bangles",
+    "subcategory": "Antique Bangles",
+    "price": "Enquire for price",
+    "image": "image/bangles/bangles2.png",
+    "id": "legacy-6"
+  },
+  {
+    "name": "Elegant Gold Earrings",
+    "category": "Earrings",
+    "subcategory": "Jhumkas",
+    "price": "Enquire for price",
+    "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=700&q=80",
+    "id": "legacy-7"
+  },
+  {
+    "name": "Classic Gold Ring",
+    "category": "Rings",
+    "subcategory": "Gold Rings",
+    "price": "Enquire for price",
+    "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=700&q=80",
+    "id": "legacy-8"
+  }
+]
